@@ -1,4 +1,4 @@
-package main
+package chroma
 
 import (
 	"encoding/json"
